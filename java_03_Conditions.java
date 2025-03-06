@@ -1,5 +1,5 @@
 import java.util.*;
-public class javaConditions {
+public class java_03_Conditions {
     public static void main(String[] args) {
 
         //  if - else conditions
