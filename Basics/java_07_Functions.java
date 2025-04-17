@@ -1,3 +1,4 @@
+package Basics;
 // import java.util.*;
 public class java_07_Functions {
     // only for n >= 2

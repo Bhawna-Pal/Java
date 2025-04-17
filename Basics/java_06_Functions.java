@@ -1,3 +1,4 @@
+package Basics;
 import java.util.*;
 public class java_06_Functions {
     public static void printHelloWorld() {

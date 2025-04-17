@@ -1,3 +1,4 @@
+package Basics;
  public class java_08_Pattern {
 
     // ****************************   Print Hollow Rectangle Pattern ******************************

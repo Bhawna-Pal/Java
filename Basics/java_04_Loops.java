@@ -1,3 +1,4 @@
+package Basics;
 import java.util.*;
 public class java_04_Loops {
     public static void main(String[] args) {
@@ -152,6 +153,7 @@ public class java_04_Loops {
 //         System.out.println("N is not Prime");
 //     }
 // }
+
     
  
 }

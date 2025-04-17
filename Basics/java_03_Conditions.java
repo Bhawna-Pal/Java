@@ -1,3 +1,4 @@
+package Basics;
 import java.util.*;
 public class java_03_Conditions {
     public static void main(String[] args) {

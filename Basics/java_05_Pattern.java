@@ -1,3 +1,4 @@
+package Basics;
 public class java_05_Pattern {
     public static void main(String[] args) {
 
