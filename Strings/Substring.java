@@ -9,9 +9,7 @@ public class Substring {
         return substr;
     }
 
-    //  Print the largest String
-
-
+    
    public static void main(String[] args) {
     // Substring
        String str = "HelloWorld";
